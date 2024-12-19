@@ -1,4 +1,4 @@
-# Show Last Review Time Overlay for Anki
+# Last Reviewed for Anki
 
 This Anki add-on displays the last review time of the current card overlaid on the review window. It shows the time (e.g., '4 days ago') when it was last reviewed, making it easier to keep track of your review intervals at a glance.
 
@@ -35,10 +35,6 @@ Once installed, the add-on automatically overlays the last review time on the An
 ## Support
 
 If you encounter any issues or have suggestions for improvements, please file an issue on the [GitHub issues page](https://github.com/your-github-username/anki-last-review-overlay/issues).
-
-## Contributing
-
-Contributions to "Show Last Review Time Overlay" are welcome! Please review the [contributing guidelines](CONTRIBUTING.md) before making a pull request.
 
 ## Authors
 
