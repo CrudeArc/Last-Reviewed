@@ -1,6 +1,6 @@
 # Show Last Review Time Overlay for Anki
 
-This Anki add-on enhances your study sessions by displaying the last review time of the current card overlaid on the reviewer's window. It shows the time in a human-readable format (e.g., '4 days ago'), making it easier to keep track of your review intervals at a glance.
+This Anki add-on displays the last review time of the current card overlaid on the review window. It shows the time (e.g., '4 days ago') when it was last reviewed, making it easier to keep track of your review intervals at a glance.
 
 ## Features
 
@@ -11,11 +11,13 @@ This Anki add-on enhances your study sessions by displaying the last review time
 ## Installation
 
 1. Download the latest release from the [Releases](https://github.com/your-github-username/anki-last-review-overlay/releases) page.
-2. In Anki, go to `Tools` -> `Add-ons` -> `Install from file...` and select the downloaded file.
+2. Extract the file
+3. Paste it in the Anki2/addons21/ directory (should be something like /home/user/.local/share/Anki2/addons21/ if you're on linux) alongside the other addons
+4. If it went well, in anki Tools > addons you should see the addon appear
 
 ## Configuration
 
-After installation, you can customize the add-on by going to `Tools` -> `Add-ons`, selecting "Show Last Review Time Overlay", and clicking on `Config`. The following options are available:
+After installation, you can customize the add-on by going to `Tools` -> `Add-ons`, selecting "Last Reviewed", and clicking on `Config`. The following options are available:
 
 - `font_family`: Sets the font family. Default is `"Orbitron, Roboto, Futura, Helvetica Neue, Arial, sans-serif"`.
 - `font_size`: Sets the font size. Default is `13`.
@@ -43,8 +45,4 @@ Contributions to "Show Last Review Time Overlay" are welcome! Please review the 
 - **PaceBar**
 - **Ouranos**
 
-Both authors have collaborated to bring this Anki add-on to life, enhancing the user experience by adding a useful overlay that displays the last review time of Anki cards.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
