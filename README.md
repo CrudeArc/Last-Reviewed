@@ -10,7 +10,7 @@ This Anki add-on displays the last review time of the current card overlaid on t
 
 ## Installation
 
-1. Download the latest release from the [Releases](https://github.com/your-github-username/anki-last-review-overlay/releases) page.
+1. Download the latest release from the [Releases]([https://github.com/your-github-username/anki-last-review-overlay/releases](https://github.com/CrudeArc/Last-Reviewed)) page.
 2. Extract the file
 3. Paste it in the Anki2/addons21/ directory (should be something like /home/user/.local/share/Anki2/addons21/ if you're on linux) alongside the other addons
 4. If it went well, in anki Tools > addons you should see the addon appear
