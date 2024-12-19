@@ -7,7 +7,7 @@ Anki Add-On: Show Last Review Time Overlay
 Displays the last review time of the current card overlaid on the reviewer's window
 as 'LR: X', where X is a relative time (e.g., '4 days ago').
 
-Author: PaceBar
+Author: PaceBar & Ouranos
 """
 
 import os
